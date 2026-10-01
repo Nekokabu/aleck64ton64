@@ -1,4 +1,4 @@
-# Aleck64 → N64 Cartridge Conversion Adapter r1.1
+# Aleck64 → N64 Cartridge Adapter r1.1
 
 An adapter board that allows Aleck64 (SETA arcade system) cartridges to be used in a Nintendo 64 console.
 Operation verified (tested on actual hardware with revision r1).
